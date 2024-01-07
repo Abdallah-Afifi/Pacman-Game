@@ -1,0 +1,7 @@
+﻿  SFML_C++_Simple_Games.cpp
+C:\Users\AUC\source\repos\SFML_C++_Simple_Games\SFML_C++_Simple_Games\SFML_C++_Simple_Games.cpp(107,23): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  SFML_C++_Simple_Games.vcxproj -> C:\Users\AUC\source\repos\SFML_C++_Simple_Games\x64\Debug\SFML_C++_Simple_Games.exe
